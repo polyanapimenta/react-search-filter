@@ -14,6 +14,8 @@
 
 <h4 align="center">Searching Cats 🔍 A sample search filter built with React</h4>
 
+<br/>
+
 
 <p align="center">
   <a href="#0">
