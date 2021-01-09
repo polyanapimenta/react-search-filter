@@ -1,35 +1,50 @@
+<p align="right">
+  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fpolyanapimenta%2Freact-search-filter">
+    <img alt="Tweet" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fpolyanapimenta%2Freact-search-filter" />
+  </a>
+</p>
+
 <h1 align="center">
   <img src="https://ik.imagekit.io/polyanapimenta/github/logo_searching_cats_37KYkNkeL9.png" width="400"/>
   
   <br/>
   
-  <img alt="React JS" src="https://ik.imagekit.io/polyanapimenta/github/react__M52L9bIV.png" width="280"/>&emsp;&nbsp;
+  <img alt="React JS" src="https://ik.imagekit.io/polyanapimenta/github/react__M52L9bIV.png" width="240"/>&emsp;&nbsp;
 
-  Searching Cats!
-  <img alt="Tweet" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fpolyanapimenta%2Freact-search-filter" />
+  Searching Cats
 </h1>
 
 <h4 align="center">🔍 A sample search filter built with React</h4>
 
-<br/>
 
 <p align="center">
-  <img alt="Javascript top language" src="https://img.shields.io/badge/javascript-46.9%25-blue?style=for-the-badge&logo=javascript" />
+  <a href="#0">
+    <img alt="Javascript top language" src="https://img.shields.io/badge/javascript-46.9%25-blue?style=for-the-badge&logo=javascript" />
+  </a>
   
-  <img alt="HTML top language" src="https://img.shields.io/badge/html-26.9%25-blue?style=for-the-badge&logo=html5" />
-  
-  <img alt="CSS top language" src="https://img.shields.io/badge/css-26.2%25-blue?style=for-the-badge&logo=css3" />
+  <a href="#0">
+    <img alt="HTML top language" src="https://img.shields.io/badge/html-26.9%25-blue?style=for-the-badge&logo=html5" />
+  </a>
+
+  <a href="#0">
+    <img alt="CSS top language" src="https://img.shields.io/badge/css-26.2%25-blue?style=for-the-badge&logo=css3" />
+  </a>
   
   <a href="https://github.com/polyanapimenta/react-search-filter/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/polyanapimenta/react-search-filter?style=for-the-badge" />
   </a>
   
-  <img alt="License MIT" src="https://img.shields.io/github/license/polyanapimenta/react-search-filter?style=for-the-badge" />
-  
-  <img alt="License MIT" src="https://img.shields.io/badge/last%20commit-january%202021-orange?style=for-the-badge" />
-  
-  <img alt="Built with react" src="https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react" />
-  
+  <a href="#0">
+    <img alt="License MIT" src="https://img.shields.io/github/license/polyanapimenta/react-search-filter?style=for-the-badge" />
+  </a>
+
+  <a href="#0">
+    <img alt="License MIT" src="https://img.shields.io/badge/last%20commit-january%202021-orange?style=for-the-badge" />
+  </a>
+
+  <a href="#0">
+    <img alt="Built with react" src="https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react" />
+  </a>
 </p>
 
 <br/>
@@ -43,8 +58,10 @@
 
 <br/>
 
-<p id="demo" align="center">
-  <img src="https://ik.imagekit.io/polyanapimenta/github/Searching_Cats_jzosWgra2Z.gif" width="768"/>
+<p align="center">
+  <a href="https://google.com" target="_blank">
+    <img src="https://ik.imagekit.io/polyanapimenta/github/Searching_Cats_jzosWgra2Z.gif" width="768"/>
+  </a>
 </p>
 
 <p id="demo" align="center">
@@ -52,8 +69,6 @@
     <img alt="Demo on Github Pages" src="https://ik.imagekit.io/polyanapimenta/github/btn-demo_OvSH9XZU0.png" width="200"/>
   </a>
 </p>
-
-<br/>
 
 ## :rocket: Technologies
 - [React JS](https://reactjs.org)
