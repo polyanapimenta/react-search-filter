@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://ik.imagekit.io/polyanapimenta/github/logo_searching_cats_37KYkNkeL9.png" width="380"/>
+  <img src="https://ik.imagekit.io/polyanapimenta/github/logo_searching_cats_37KYkNkeL9.png" width="400"/>
   
   <br/>
   
