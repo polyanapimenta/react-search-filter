@@ -6,6 +6,7 @@
   <img alt="React JS" src="https://ik.imagekit.io/polyanapimenta/github/react__M52L9bIV.png" width="280"/>&emsp;&nbsp;
 
   Searching Cats!
+  <img alt="Tweet" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fpolyanapimenta%2Freact-search-filter" />
 </h1>
 
 <h4 align="center">🔍 A sample search filter built with React</h4>
@@ -26,6 +27,9 @@
   <img alt="License MIT" src="https://img.shields.io/github/license/polyanapimenta/react-search-filter?style=for-the-badge" />
   
   <img alt="License MIT" src="https://img.shields.io/badge/last%20commit-january%202021-orange?style=for-the-badge" />
+  
+  <img alt="Built with react" src="https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react" />
+  
 </p>
 
 <br/>
@@ -40,8 +44,10 @@
 <br/>
 
 <p id="demo" align="center">
-  <img src="https://ik.imagekit.io/polyanapimenta/github/Searching_Cats_jzosWgra2Z.gif" width="600"/>
-  
+  <img src="https://ik.imagekit.io/polyanapimenta/github/Searching_Cats_jzosWgra2Z.gif" width="768"/>
+</p>
+
+<p id="demo" align="center">
   <a href="https://google.com" target="_blank">
     <img alt="Demo on Github Pages" src="https://ik.imagekit.io/polyanapimenta/github/btn-demo_OvSH9XZU0.png" width="200"/>
   </a>
@@ -74,8 +80,7 @@ $ yarn start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The page will reload if you make edits. You will also see any lint errors in the console.
 
 
 ## :memo: License
