@@ -55,13 +55,13 @@
 
 <br />
 
-## :eye: Demo
-
 <p align="center">
   <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank">
     <img src="https://ik.imagekit.io/polyanapimenta/github/Searching_Cats_2_sWETgqB0o.gif" width="768"/>
   </a>
 </p>
+
+## :eye: Demo
 
 <p id="demo" align="center">
   <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank">
