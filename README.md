@@ -6,6 +6,8 @@
 
 <p align="center">
   <img alt="Searching Cats" src="https://ik.imagekit.io/polyanapimenta/github/logo_searching_cats_37KYkNkeL9.png" width="400"/>
+  <br/>
+  <img alt="React JS" src="https://ik.imagekit.io/polyanapimenta/github/reactjs_kkT170jSj.png" width="100"/>
 </p>
 
 <h1 align="center">Searching Cats</h1>
