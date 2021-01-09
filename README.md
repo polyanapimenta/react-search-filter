@@ -10,11 +10,9 @@
   <br/>
   
   <img alt="React JS" src="https://ik.imagekit.io/polyanapimenta/github/react__M52L9bIV.png" width="240"/>&emsp;&nbsp;
-
-  Searching Cats
 </h1>
 
-<h4 align="center">🔍 A sample search filter built with React</h4>
+<h4 align="center">Searching Cats 🔍 A sample search filter built with React</h4>
 
 
 <p align="center">
