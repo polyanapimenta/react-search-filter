@@ -11,7 +11,6 @@
 <h1 align="center">Searching Cats</h1>
 
 <h4 align="center">🔍 A sample search filter built with React</h4>
-<br/>
 
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&emsp;|&emsp;
@@ -19,6 +18,8 @@
   <a href="#demo">Demo</a>&emsp;|&emsp;
   <a href="#memo-license">License</a>
 </p>
+
+<br/>
 
 <p align="center">
   <a href="#0">
