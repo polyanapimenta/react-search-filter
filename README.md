@@ -4,21 +4,19 @@
   </a>
 </p>
 
-<p align="center">
+<h1 align="center">
   <img alt="Searching Cats" src="https://ik.imagekit.io/polyanapimenta/github/logo_searching_cats_37KYkNkeL9.png" width="400"/>
   <br/>
   <img alt="React JS" src="https://ik.imagekit.io/polyanapimenta/github/react__M52L9bIV.png" width="220"/>
-</p>
-
-<h1 align="center">Searching Cats</h1>
+</h1>
 
 <h4 align="center">🔍 A sample search filter built with React</h4>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&emsp;|&emsp;
-  <a href="#information_source-how-to-use">How To Use</a>&emsp;|&emsp;
-  <a href="#eyes-demo">Demo</a>&emsp;|&emsp;
-  <a href="#memo-license">License</a>
+  <a href="#rocket-technologies">TECHNOLOGIES</a>&emsp;|&emsp;
+  <a href="#information_source-how-to-use">HOW TO USE</a>&emsp;|&emsp;
+  <a href="#eyes-demo">DEMO</a>&emsp;|&emsp;
+  <a href="#memo-license">LICENSE</a>
 </p>
 
 <br/>
