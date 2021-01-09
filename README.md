@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fpolyanapimenta%2Freact-search-filter">
+  <a target="_blank" href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fpolyanapimenta%2Freact-search-filter">
     <img alt="Tweet" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Fpolyanapimenta%2Freact-search-filter" />
   </a>
 </p>
@@ -14,7 +14,7 @@
   Searching Cats
 </h1>
 
-<h4 align="center">🔍 A sample search filter built with React</h4>
+<h4 align="center">A sample search filter built with React 🔍</h4>
 
 
 <p align="center">
@@ -34,12 +34,12 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/polyanapimenta/react-search-filter?style=for-the-badge" />
   </a>
   
-  <a href="#0">
+  <a href="https://github.com/polyanapimenta/react-search-filter/blob/main/LICENSE">
     <img alt="License MIT" src="https://img.shields.io/github/license/polyanapimenta/react-search-filter?style=for-the-badge" />
   </a>
 
   <a href="#0">
-    <img alt="License MIT" src="https://img.shields.io/badge/last%20commit-january%202021-orange?style=for-the-badge" />
+    <img alt="Last Commit" src="https://img.shields.io/badge/last%20commit-january%202021-orange?style=for-the-badge" />
   </a>
 
   <a href="#0">
