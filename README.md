@@ -47,25 +47,21 @@
   </a>
 </p>
 
-<br/>
-
 <p align="center">
-  <a href="#rocket-technologies">TECHNOLOGIES</a>&emsp;|&emsp;
-  <a href="#information_source-how-to-use">HOW TO USE</a>&emsp;|&emsp;
-  <a href="#demo">DEMO</a>&emsp;|&emsp;
-  <a href="#memo-license">LICENSE</a>
+  <a href="#rocket-technologies">Technologies</a>&emsp;|&emsp;
+  <a href="#information_source-how-to-use">How To Use</a>&emsp;|&emsp;
+  <a href="#demo">Demo</a>&emsp;|&emsp;
+  <a href="#memo-license">License</a>
 </p>
 
-<br/>
-
 <p align="center">
-  <a href="https://google.com" target="_blank">
-    <img src="https://ik.imagekit.io/polyanapimenta/github/Searching_Cats_jzosWgra2Z.gif" width="768"/>
+  <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank">
+    <img src="https://ik.imagekit.io/polyanapimenta/github/Searching_Cats_2_sWETgqB0o.gif"/>
   </a>
 </p>
 
 <p id="demo" align="center">
-  <a href="https://google.com" target="_blank">
+  <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank">
     <img alt="Demo on Github Pages" src="https://ik.imagekit.io/polyanapimenta/github/btn-demo_OvSH9XZU0.png" width="200"/>
   </a>
 </p>
