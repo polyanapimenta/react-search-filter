@@ -16,6 +16,14 @@
 
 <br/>
 
+<p align="center">
+  <a href="#rocket-technologies">Technologies</a>&emsp;|&emsp;
+  <a href="#information_source-how-to-use">How To Use</a>&emsp;|&emsp;
+  <a href="#demo">Demo</a>&emsp;|&emsp;
+  <a href="#memo-license">License</a>
+</p>
+
+<br/>
 
 <p align="center">
   <a href="#0">
@@ -45,13 +53,6 @@
   <a href="#0">
     <img alt="Built with react" src="https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react" />
   </a>
-</p>
-
-<p align="center">
-  <a href="#rocket-technologies">Technologies</a>&emsp;|&emsp;
-  <a href="#information_source-how-to-use">How To Use</a>&emsp;|&emsp;
-  <a href="#demo">Demo</a>&emsp;|&emsp;
-  <a href="#memo-license">License</a>
 </p>
 
 <br/>
