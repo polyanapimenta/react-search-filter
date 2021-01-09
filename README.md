@@ -4,19 +4,21 @@
   </a>
 </p>
 
-<h1 align="center">
+<p align="center">
   <img alt="Searching Cats" src="https://ik.imagekit.io/polyanapimenta/github/logo_searching_cats_37KYkNkeL9.png" width="400"/>
   <br/>
   <img alt="React JS" src="https://ik.imagekit.io/polyanapimenta/github/react__M52L9bIV.png" width="220"/>
-</h1>
+</p>
+
+<h1 align="center">Searching Cats</h1>
 
 <h4 align="center">🔍 A sample search filter built with React</h4>
 
 <p align="center">
-  <a href="#rocket-technologies">TECHNOLOGIES</a>&emsp;|&emsp;
-  <a href="#information_source-how-to-use">HOW TO USE</a>&emsp;|&emsp;
-  <a href="#eyes-demo">DEMO</a>&emsp;|&emsp;
-  <a href="#memo-license">LICENSE</a>
+  <a href="#rocket-technologies">Technologies</a>&emsp;|&emsp;
+  <a href="#information_source-how-to-use">How To Use</a>&emsp;|&emsp;
+  <a href="#eyes-demo">Demo</a>&emsp;|&emsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <br/>
@@ -61,6 +63,17 @@
 
 <br/>
 
+## :eyes: Demo
+
+<p id="demo" align="center">
+  👇<br/><br/>
+  <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank" title="Clique aqui">
+    <img alt="Demo on Github Pages" src="https://ik.imagekit.io/polyanapimenta/github/btn-demo_OvSH9XZU0.png" width="200"/>
+  </a>
+</p>
+
+<br/>
+
 ## :rocket: Technologies
 - [React JS](https://reactjs.org)
 - [VS Code](https://code.visualstudio.com)
@@ -88,17 +101,6 @@ $ yarn start
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits. You will also see any lint errors in the console.
-
-<br/>
-
-## :eyes: Demo
-
-<p id="demo" align="center">
-  👇<br/><br/>
-  <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank" title="Clique aqui">
-    <img alt="Demo on Github Pages" src="https://ik.imagekit.io/polyanapimenta/github/btn-demo_OvSH9XZU0.png" width="200"/>
-  </a>
-</p>
 
 <br/>
 
