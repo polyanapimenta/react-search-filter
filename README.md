@@ -64,7 +64,7 @@
 ## :eyes: Demo
 
 <p id="demo" align="center">
-  :pointing_down:<br/><br/>
+  👇<br/><br/>
   <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank">
     <img alt="Demo on Github Pages" src="https://ik.imagekit.io/polyanapimenta/github/btn-demo_OvSH9XZU0.png" width="200"/>
   </a>
