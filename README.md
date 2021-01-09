@@ -4,16 +4,13 @@
   </a>
 </p>
 
-<h1 align="center">
+<p align="center">
   <img src="https://ik.imagekit.io/polyanapimenta/github/logo_searching_cats_37KYkNkeL9.png" width="400"/>
-  
-  <br/>
-  
-  <img alt="React JS" src="https://ik.imagekit.io/polyanapimenta/github/react__M52L9bIV.png" width="200"/>
-</h1>
+</p>
 
-<h4 align="center">Searching Cats 🔍 A sample search filter built with React</h4>
+<h1 align="center">Searching Cats</h1>
 
+<h4 align="center">🔍 A sample search filter built with React</h4>
 <br/>
 
 <p align="center">
@@ -22,8 +19,6 @@
   <a href="#demo">Demo</a>&emsp;|&emsp;
   <a href="#memo-license">License</a>
 </p>
-
-<br/>
 
 <p align="center">
   <a href="#0">
@@ -54,8 +49,6 @@
     <img alt="Built with react" src="https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react" />
   </a>
 </p>
-
-<br/>
 
 <p align="center">
   <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank">
