@@ -12,6 +12,8 @@
 
 <h4 align="center">🔍 A sample search filter built with React</h4>
 
+<br/>
+
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&emsp;|&emsp;
   <a href="#information_source-how-to-use">How To Use</a>&emsp;|&emsp;
