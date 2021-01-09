@@ -40,10 +40,10 @@
 <br/>
 
 <p id="demo" align="center">
-  <img src="https://ik.imagekit.io/polyanapimenta/github/Searching_Cats_jzosWgra2Z.gif" />
+  <img src="https://ik.imagekit.io/polyanapimenta/github/Searching_Cats_jzosWgra2Z.gif" width="600"/>
   
   <a href="https://google.com" target="_blank">
-    <img alt="Demo on Github Pages" src="https://ik.imagekit.io/polyanapimenta/github/btn-demo_OvSH9XZU0.png" width="169px"/>
+    <img alt="Demo on Github Pages" src="https://ik.imagekit.io/polyanapimenta/github/btn-demo_OvSH9XZU0.png" width="200"/>
   </a>
 </p>
 
