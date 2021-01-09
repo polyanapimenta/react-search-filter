@@ -72,6 +72,7 @@
 - [React JS](https://reactjs.org)
 - [VS Code](https://code.visualstudio.com)
   
+<br/>
 
 ## :information_source: How To Use
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v14.15](https://nodejs.org/en/) or higher + [Yarn v1.22](https://yarnpkg.com/) or higher installed on your computer. From your command line:
@@ -95,6 +96,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits. You will also see any lint errors in the console.
 
+<br/>
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/polyanapimenta/react-search-filter/blob/main/LICENSE) for more information.
