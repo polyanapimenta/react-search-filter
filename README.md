@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ik.imagekit.io/polyanapimenta/github/logo_searching_cats_37KYkNkeL9.png" width="400"/>
+  <img alt="Searching Cats" src="https://ik.imagekit.io/polyanapimenta/github/logo_searching_cats_37KYkNkeL9.png" width="400"/>
 </p>
 
 <h1 align="center">Searching Cats</h1>
@@ -52,6 +52,10 @@
     <img alt="Built with react" src="https://img.shields.io/badge/built%20with-react.js-blue?style=for-the-badge&logo=react" />
   </a>
 </p>
+
+<br />
+
+## :eye: Demo
 
 <p align="center">
   <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank">
