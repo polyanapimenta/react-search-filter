@@ -95,10 +95,12 @@ The page will reload if you make edits. You will also see any lint errors in the
 
 <p id="demo" align="center">
   👇<br/><br/>
-  <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank">
+  <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank" title="Clique aqui">
     <img alt="Demo on Github Pages" src="https://ik.imagekit.io/polyanapimenta/github/btn-demo_OvSH9XZU0.png" width="200"/>
   </a>
 </p>
+
+<br/>
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/polyanapimenta/react-search-filter/blob/main/LICENSE) for more information.
