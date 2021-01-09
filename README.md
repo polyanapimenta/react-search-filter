@@ -61,15 +61,6 @@
 
 <br/>
 
-## :eyes: Demo
-
-<p id="demo" align="center">
-  👇<br/><br/>
-  <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank">
-    <img alt="Demo on Github Pages" src="https://ik.imagekit.io/polyanapimenta/github/btn-demo_OvSH9XZU0.png" width="200"/>
-  </a>
-</p>
-
 ## :rocket: Technologies
 - [React JS](https://reactjs.org)
 - [VS Code](https://code.visualstudio.com)
@@ -99,6 +90,15 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits. You will also see any lint errors in the console.
 
 <br/>
+
+## :eyes: Demo
+
+<p id="demo" align="center">
+  👇<br/><br/>
+  <a href="https://polyanapimenta.github.io/react-search-filter/" target="_blank">
+    <img alt="Demo on Github Pages" src="https://ik.imagekit.io/polyanapimenta/github/btn-demo_OvSH9XZU0.png" width="200"/>
+  </a>
+</p>
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/polyanapimenta/react-search-filter/blob/main/LICENSE) for more information.
