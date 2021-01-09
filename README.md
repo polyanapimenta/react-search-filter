@@ -5,9 +5,13 @@
 </p>
 
 <p align="center">
-  <img alt="Searching Cats" src="https://ik.imagekit.io/polyanapimenta/github/logo_searching_cats_37KYkNkeL9.png" width="400"/>
+  <a target="_blank" href="https://polyanapimenta.github.io/react-search-filter/">
+    <img alt="Searching Cats" src="https://ik.imagekit.io/polyanapimenta/github/logo_searching_cats_37KYkNkeL9.png" width="400"/>
+  </a>
   <br/>
-  <img alt="React JS" src="https://ik.imagekit.io/polyanapimenta/github/react__M52L9bIV.png" width="220"/>
+  <a target="_blank" href="#0">
+    <img alt="React JS" src="https://ik.imagekit.io/polyanapimenta/github/react__M52L9bIV.png" width="220"/>
+  </a>
 </p>
 
 <h1 align="center">Searching Cats</h1>
