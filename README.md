@@ -15,7 +15,7 @@
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&emsp;|&emsp;
   <a href="#information_source-how-to-use">How To Use</a>&emsp;|&emsp;
-  <a href="#demo">Demo</a>&emsp;|&emsp;
+  <a href="#eyes-demo">Demo</a>&emsp;|&emsp;
   <a href="#memo-license">License</a>
 </p>
 
