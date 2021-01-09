@@ -76,8 +76,6 @@
   </a>
 </p>
 
-<br/>
-
 ## :rocket: Technologies
 - [React JS](https://reactjs.org)
 - [VS Code](https://code.visualstudio.com)
