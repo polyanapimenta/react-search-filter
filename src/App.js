@@ -20,7 +20,7 @@ class App extends React.Component {
     .then(users => this.setState({characters: users}))
   }
 
-  handleChange = e => {
+  onSearchChange = e => {
     this.setState({searchField: e.target.value})
   }
 
@@ -35,7 +35,7 @@ class App extends React.Component {
         <h1>Searching Cats!</h1>
         <SearchBox 
           placeholder="Find Your Cat Here 🐈"
-          handleChange={this.handleChange}
+          onSearchChange={this.onSearchChange}
         />
         <CardList characters={filteredCharacters} />
         <footer className="footer">
